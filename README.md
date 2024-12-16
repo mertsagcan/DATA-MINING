@@ -1,1 +1,1 @@
-K nearest neighbor assignment.
+K nearest neighbors assignment.
